@@ -48,7 +48,7 @@ Monitor and analyze progress with **personalized dashboards** that provide insig
 ### **Steps to Run Locally**
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/ai-career-coach-planner.git
+   git clone https://github.com/ReeturajKumar/AI-CAREER-PLANNER.git
    cd ai-career-coach-planner
    ```
 2. **Install dependencies:**
