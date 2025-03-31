@@ -26,7 +26,7 @@ Stay updated with **live tech events, webinars, and bootcamps** by integrating d
 ### 📊 Career Progress Tracker
 Monitor and analyze progress with **personalized dashboards** that provide insights into skill development, certifications, and job-readiness.
 
-![Career Growth Graph](https://via.placeholder.com/1000x500?text=Career+Progress+Tracker)
+![Career Growth Graph](https://ai-techpark.com/wp-content/uploads/2023/11/LatticeFlow-960x540.jpg)
 
 ---
 
@@ -90,6 +90,6 @@ This project is licensed under the **MIT License**—allowing everyone to use, m
 - **Real-time mentorship & networking** for personalized career guidance.
 - **LinkedIn & job portal integration** for a seamless job application experience.
 
-![Future AI Career Growth](https://via.placeholder.com/1000x500?text=Future+Enhancements)
+![Future AI Career Growth](https://media.licdn.com/dms/image/D4E12AQHy-rLMwUaUXg/article-cover_image-shrink_720_1280/0/1704813824581?e=2147483647&v=beta&t=mf0qQ8FfwS_3QW0dsluNsh2RsgBBYA4Z_ZYeiISvjTk)
 
 Join us in shaping the future of AI-powered career planning! 💡
