@@ -3,7 +3,7 @@
 ## 🚀 Overview
 AI Career Coach Planner is an innovative, AI-driven platform that empowers students and professionals to navigate their career journey from skill development to securing their dream job. Utilizing cutting-edge technologies like **Next.js, Tailwind CSS, Gemini AI, Prisma, and ShadCN UI**, this platform provides intelligent guidance, personalized learning paths, job readiness tools, and industry insights to help users stay ahead in the competitive job market.
 
-![AI Career Coach Planner](https://via.placeholder.com/1000x500?text=Career+Coaching+AI+Platform)
+![AI Career Coach Planner](https://media.licdn.com/dms/image/v2/D4E12AQHam1errHLVFA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1708635599886?e=2147483647&v=beta&t=9-VZZe7ffpLHMvhojujEsju2y1bLGFcA1FiRdVpLfj0)
 
 ---
 
